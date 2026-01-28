@@ -22,6 +22,7 @@ Risks and blockers are proactively managed through risk registers, routine statu
 - [Roles & Personas](./octoacme-roles-and-personas.md)
 
 - roles
-- roles
+- roles2
+- roles3
 
 All documentation inside `docs/` is versioned, collaboratively refined, and used as the primary knowledge source for OctoAcme project execution.
