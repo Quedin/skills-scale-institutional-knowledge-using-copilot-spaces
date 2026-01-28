@@ -20,5 +20,7 @@ Risks and blockers are proactively managed through risk registers, routine statu
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement Guide](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
-roles
+
+- roles
+
 All documentation inside `docs/` is versioned, collaboratively refined, and used as the primary knowledge source for OctoAcme project execution.
